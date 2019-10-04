@@ -1,0 +1,24 @@
+
+body{
+    font:sans-serif;
+    color: rgba(0,0, 50pxe, 0px);
+    text-transform: uppercase;
+    letter-spacing: 2rem;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow)
+}
+h1{
+    font:600 3,5em 'raleway', sans-serif;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+h2{
+    font:900 1em, sans-serif;
+    color: rgba(0, 0, 0, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.01em; 
+}
